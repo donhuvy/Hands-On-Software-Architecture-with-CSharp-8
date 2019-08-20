@@ -9,3 +9,14 @@ C:\Hands-On-Software-Architecture-with-CSharp-8\ch04\Cognitive\obj\Debug\netcore
 C:\Hands-On-Software-Architecture-with-CSharp-8\ch04\Cognitive\obj\Debug\netcoreapp2.2\Cognitive.AssemblyInfo.cs
 C:\Hands-On-Software-Architecture-with-CSharp-8\ch04\Cognitive\obj\Debug\netcoreapp2.2\Cognitive.dll
 C:\Hands-On-Software-Architecture-with-CSharp-8\ch04\Cognitive\obj\Debug\netcoreapp2.2\Cognitive.pdb
+E:\source_code\github.com\Hands-On-Software-Architecture-with-CSharp-8\ch04\Cognitive\bin\Debug\netcoreapp2.2\Cognitive.deps.json
+E:\source_code\github.com\Hands-On-Software-Architecture-with-CSharp-8\ch04\Cognitive\bin\Debug\netcoreapp2.2\Cognitive.runtimeconfig.json
+E:\source_code\github.com\Hands-On-Software-Architecture-with-CSharp-8\ch04\Cognitive\bin\Debug\netcoreapp2.2\Cognitive.runtimeconfig.dev.json
+E:\source_code\github.com\Hands-On-Software-Architecture-with-CSharp-8\ch04\Cognitive\bin\Debug\netcoreapp2.2\Cognitive.dll
+E:\source_code\github.com\Hands-On-Software-Architecture-with-CSharp-8\ch04\Cognitive\bin\Debug\netcoreapp2.2\Cognitive.pdb
+E:\source_code\github.com\Hands-On-Software-Architecture-with-CSharp-8\ch04\Cognitive\obj\Debug\netcoreapp2.2\Cognitive.csprojAssemblyReference.cache
+E:\source_code\github.com\Hands-On-Software-Architecture-with-CSharp-8\ch04\Cognitive\obj\Debug\netcoreapp2.2\Cognitive.csproj.CoreCompileInputs.cache
+E:\source_code\github.com\Hands-On-Software-Architecture-with-CSharp-8\ch04\Cognitive\obj\Debug\netcoreapp2.2\Cognitive.AssemblyInfoInputs.cache
+E:\source_code\github.com\Hands-On-Software-Architecture-with-CSharp-8\ch04\Cognitive\obj\Debug\netcoreapp2.2\Cognitive.AssemblyInfo.cs
+E:\source_code\github.com\Hands-On-Software-Architecture-with-CSharp-8\ch04\Cognitive\obj\Debug\netcoreapp2.2\Cognitive.dll
+E:\source_code\github.com\Hands-On-Software-Architecture-with-CSharp-8\ch04\Cognitive\obj\Debug\netcoreapp2.2\Cognitive.pdb

@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\source_code\\github.com\\Hands-On-Software-Architecture-with-CSharp-8\\ch04\\Cognitive\\Cognitive.csproj": {}
+  },
+  "projects": {
+    "E:\\source_code\\github.com\\Hands-On-Software-Architecture-with-CSharp-8\\ch04\\Cognitive\\Cognitive.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\source_code\\github.com\\Hands-On-Software-Architecture-with-CSharp-8\\ch04\\Cognitive\\Cognitive.csproj",
+        "projectName": "Cognitive",
+        "projectPath": "E:\\source_code\\github.com\\Hands-On-Software-Architecture-with-CSharp-8\\ch04\\Cognitive\\Cognitive.csproj",
+        "packagesPath": "C:\\Users\\donhuvy\\.nuget\\packages\\",
+        "outputPath": "E:\\source_code\\github.com\\Hands-On-Software-Architecture-with-CSharp-8\\ch04\\Cognitive\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\donhuvy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/early-access/api": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

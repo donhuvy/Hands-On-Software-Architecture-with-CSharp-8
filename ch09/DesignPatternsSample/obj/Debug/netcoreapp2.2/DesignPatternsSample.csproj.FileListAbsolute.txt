@@ -9,3 +9,14 @@ C:\Hands-On-Software-Architecture-with-CSharp-8\ch09\DesignPatternsSample\obj\De
 C:\Hands-On-Software-Architecture-with-CSharp-8\ch09\DesignPatternsSample\obj\Debug\netcoreapp2.2\DesignPatternsSample.dll
 C:\Hands-On-Software-Architecture-with-CSharp-8\ch09\DesignPatternsSample\obj\Debug\netcoreapp2.2\DesignPatternsSample.pdb
 C:\Hands-On-Software-Architecture-with-CSharp-8\ch09\DesignPatternsSample\obj\Debug\netcoreapp2.2\DesignPatternsSample.csprojAssemblyReference.cache
+E:\source_code\github.com\Hands-On-Software-Architecture-with-CSharp-8\ch09\DesignPatternsSample\bin\Debug\netcoreapp2.2\DesignPatternsSample.deps.json
+E:\source_code\github.com\Hands-On-Software-Architecture-with-CSharp-8\ch09\DesignPatternsSample\bin\Debug\netcoreapp2.2\DesignPatternsSample.runtimeconfig.json
+E:\source_code\github.com\Hands-On-Software-Architecture-with-CSharp-8\ch09\DesignPatternsSample\bin\Debug\netcoreapp2.2\DesignPatternsSample.runtimeconfig.dev.json
+E:\source_code\github.com\Hands-On-Software-Architecture-with-CSharp-8\ch09\DesignPatternsSample\bin\Debug\netcoreapp2.2\DesignPatternsSample.dll
+E:\source_code\github.com\Hands-On-Software-Architecture-with-CSharp-8\ch09\DesignPatternsSample\bin\Debug\netcoreapp2.2\DesignPatternsSample.pdb
+E:\source_code\github.com\Hands-On-Software-Architecture-with-CSharp-8\ch09\DesignPatternsSample\obj\Debug\netcoreapp2.2\DesignPatternsSample.csprojAssemblyReference.cache
+E:\source_code\github.com\Hands-On-Software-Architecture-with-CSharp-8\ch09\DesignPatternsSample\obj\Debug\netcoreapp2.2\DesignPatternsSample.csproj.CoreCompileInputs.cache
+E:\source_code\github.com\Hands-On-Software-Architecture-with-CSharp-8\ch09\DesignPatternsSample\obj\Debug\netcoreapp2.2\DesignPatternsSample.AssemblyInfoInputs.cache
+E:\source_code\github.com\Hands-On-Software-Architecture-with-CSharp-8\ch09\DesignPatternsSample\obj\Debug\netcoreapp2.2\DesignPatternsSample.AssemblyInfo.cs
+E:\source_code\github.com\Hands-On-Software-Architecture-with-CSharp-8\ch09\DesignPatternsSample\obj\Debug\netcoreapp2.2\DesignPatternsSample.dll
+E:\source_code\github.com\Hands-On-Software-Architecture-with-CSharp-8\ch09\DesignPatternsSample\obj\Debug\netcoreapp2.2\DesignPatternsSample.pdb
